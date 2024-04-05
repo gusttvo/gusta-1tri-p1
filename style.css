@@ -46,20 +46,40 @@ body {
     padding: 24px 0;
 }
 
-.estudante{
-    padding: 24px 0;
-}
-.estudante-imagem{
-    width: 120px;
+.army-heavy {
+    width: 180px;
 }
 
-.estudante-icone{
-    width: 24px;
-    padding: 4px 8px;
+.guard-assaulter {
+    width: 180px;
 }
 
-.estudante-div{
+.guard-defender {
+    width: 180px;
+}
+
+.guard-heavy {
+    width: 180px;
+}
+
+.guard-royal {
+    width: 180px;
+}
+
+.guard-sniper {
+    width: 180px;
+}
+
+.vilões-div {
     text-align: center;
-    padding: 16px 0;
 }
 
+.vilões-título {
+    text-align: center;
+    padding: 25px 0;
+}
+
+.vilões-todos {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
