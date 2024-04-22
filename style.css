@@ -39,6 +39,11 @@ body {
     justify-content: center;
     align-items: center;
     padding: 24px 0;
+
+}
+
+.escola-texto-dois{
+    width: 10%;
 }
 
 .escola-div-conteudo{
@@ -88,5 +93,5 @@ body {
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
 .Armadura{
-    width: 50%;
+    width: 100%;
 }
