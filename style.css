@@ -25,7 +25,8 @@ body {
 }
 
 .escola-texto-um{
-    display: inline;
+    text-align: center;
+
 }
 
 .escola-imagem{
@@ -43,16 +44,26 @@ body {
 }
 
 .escola-texto-dois{
-    width: 10%;
+    width: 75%;
+padding: 0 0 0 15em;
+
+    
+}
+
+.rodape{
+    color: #000000;
 }
 
 .escola-div-conteudo{
-    width: 35%;
+    width:auto;
+    height: auto;
+
 }
 
 
 .escola-titulo{
     padding: 24px 0;
+  text-align: center;
 }
 
 .army-heavy {
@@ -61,6 +72,7 @@ body {
 
 .guard-assaulter {
     width: 180px;
+    
 }
 
 .guard-defender {
@@ -69,6 +81,7 @@ body {
 
 .guard-heavy {
     width: 180px;
+    
 }
 
 .guard-royal {
@@ -94,4 +107,13 @@ body {
 }
 .Armadura{
     width: 100%;
+}
+.rodakk{
+    width: 145px;
+    padding: 15px 0;
+}
+.rodak{
+background-color: #000000;
+text-align: center;
+
 }
